@@ -385,6 +385,45 @@
 
 To do.
 
+## journeys
+
+Below, I've collected an overview of experience reports from in-house threat modellers:
+
+Peter Torr, Microsoft, 3 October 2005. Demystifying the threat-modelling process. IEEE Security & Privacy. [paper](https://www.ida.liu.se/~TDDC90/literature/papers/torr.pdf)
+
+Larry Osterman, Microsoft, 30 August 2007 to 1 October 2007. Some final thoughts on threat modelling. [blog posts](http://web.archive.org/web/20071019225257/http://blogs.msdn.com/larryosterman/archive/2007/10/01/some-final-thoughts-on-threat-modeling.aspx)
+
+Adam Shostack, Microsoft, 26 September 2007 to 5 November 2007, The trouble with threat modelling. [blog posts](https://adam.shostack.org/The%20Trouble%20With%20Threat%20Modeling.docx)
+
+Jeffrey Ingalsbe et al., Ford and SEI, 7 January 2008. Threat modelling: diving into the deep end. IEEE Software. [paper](https://www.researchgate.net/profile/Nancy-Mead/publication/3249444_Threat_Modeling_Diving_into_the_Deep_End/links/0f3175304218e0d88f000000/Threat-Modeling-Diving-into-the-Deep-End.pdf
+)
+
+Adam Shostack, Microsoft, 17 or 18 May 2008. SDL threat modelling: past, present, and future. LayerOne. [slides](http://web.archive.org/web/20220831210147/https://www.layerone.org/wp-content/uploads/2011/01/Adam-Shostack-L1-2008-SDL.pdf) and [recording](https://www.youtube.com/watch?v=BXzQdgsk3Hg)
+
+Greg Hughes et al., Microsoft and Ford, 10 or 11 or 12 or 13 June 2008. The importance of threat modelling. TechEd North America. [interview](https://www.youtube.com/watch?v=QuprSy8K_18)
+
+Adam Shostack, Microsoft, 28 September 2008. Experiences threat modelling at Microsoft. MODSEC. [paper](https://adam.shostack.org/modsec08/Shostack-ModSec08-Experiences-Threat-Modeling-At-Microsoft-published.pdf)
+
+Danny Dhillon, EMC, 17 October 2008. Threat modelling at EMC. BlueHat. [recording](https://learn.microsoft.com/en-us/events/bluehat-security-briefings-fall-2008-sessions-and-interviews/v8-10) and [interview](https://learn.microsoft.com/en-us/events/bluehat-security-briefings-fall-2008-sessions-and-interviews/v8-9)
+
+Adam Shostack, Microsoft, 17 October 2008. Threat modelling at Microsoft. BlueHat. [recording](https://learn.microsoft.com/en-us/events/bluehat-security-briefings-fall-2008-sessions-and-interviews/v8-10) and [interview](https://learn.microsoft.com/en-us/events/bluehat-security-briefings-fall-2008-sessions-and-interviews/v8-11)
+
+Danny Dhillon, EMC, 12 May 2011. Developer-driven threat modelling. IEEE Security & Privacy. [paper](https://www.infoq.com/articles/developer-driven-threat-modeling/)
+
+Robert Reichel, GitHub, 2 September 2020. How we threat model. [blog post](https://github.blog/2020-09-02-how-we-threat-model/)
+
+Jeevan Saini, Segment, 29 March 2021. Threat modelling redefined: the self-serve threat model. [blog post](https://segment.com/blog/redefining-threat-modeling/)
+
+Mark Loveless, GitLab, 9 July 2021. How we're creating a threat model framework that works for GitLab. [blog post](https://about.gitlab.com/blog/2021/07/09/creating-a-threat-model-that-works-for-gitlab/)
+
+Judy Kelly, Red Hat, 18 July 2022. A collaborative approach to threat modelling. [blog post](https://www.redhat.com/en/blog/collaborative-approach-threat-modeling)
+
+Rui Covelo, OutSystems, 3 October 2022. Developer-driven threat modelling at OutSystems. [blog post](https://github.com/ruicovelo/ruicovelo.github.io/blob/main/_posts/2022-10-03-developer-driven-threat-modelling-outsystems.markdown)
+
+## research
+
+To do.
+
 ## copyright
 
 This document is licensed under a CC BY 4.0 licence. The desired citation is as follows:
