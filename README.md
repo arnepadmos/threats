@@ -3,6 +3,16 @@
 *Threat modelling is analysing representations of a system to highlight concerns about security and privacy characteristics.*
 -- [Braiterman et al. (2020)](https://www.threatmodelingmanifesto.org/)
 
+[methods](#methods)
+
+[examples](#examples)
+
+[tooling](#tooling)
+
+[journeys](#journeys)
+
+[research](#research)
+
 ## methods
 
 [4Q: four questions framework](https://github.com/adamshostack/4QuestionFrame)
@@ -347,8 +357,6 @@
 
 [THREAGILE: agile threat modelling toolkit](https://christian-schneider.net/slides/DEF-CON-2020-Threagile.pdf)
 
-[Threat Dragon: OWASP Tool for making threat model diagrams](https://github.com/OWASP/threat-dragon/releases)
-
 [THREATSPEC: threat modelling code annotations](https://github.com/threatspec/threatspec)
 
 [TMD: threat modelling for developers](https://archive.fosdem.org/2020/schedule/event/security_threat_modelling_for_developers/attachments/slides/4150/export/events/attachments/security_threat_modelling_for_developers/slides/4150/Threat_modelling_for_developers.pdf)
@@ -386,6 +394,32 @@
 ## examples
 
 To do.
+
+## tooling
+
+[draw.io](https://www.drawio.com/)
+
+[hcltm](https://github.com/xntrik/hcltm)
+
+[MAL](https://mal-lang.org/)
+
+[OTM](https://github.com/iriusrisk/OpenThreatModel)
+
+[pytm](https://github.com/izar/pytm)
+
+[Threagile](https://github.com/Threagile/threagile)
+
+[Threat Dragon](https://github.com/OWASP/threat-dragon)
+
+[threat-composer](https://github.com/awslabs/threat-composer)
+
+[ThreatPlaybook](https://we45.gitbook.io/threatplaybook)
+
+[threatspec](https://threatspec.org/)
+
+[TicTaaC](https://github.com/rusakovichma/TicTaaC)
+
+[Verifpal](https://verifpal.com/)
 
 ## journeys
 
