@@ -347,6 +347,8 @@
 
 [THREAGILE: agile threat modelling toolkit](https://christian-schneider.net/slides/DEF-CON-2020-Threagile.pdf)
 
+[Threat Dragon: OWASP Tool for making threat model diagrams](https://github.com/OWASP/threat-dragon/releases)
+
 [THREATSPEC: threat modelling code annotations](https://github.com/threatspec/threatspec)
 
 [TMD: threat modelling for developers](https://archive.fosdem.org/2020/schedule/event/security_threat_modelling_for_developers/attachments/slides/4150/export/events/attachments/security_threat_modelling_for_developers/slides/4150/Threat_modelling_for_developers.pdf)
