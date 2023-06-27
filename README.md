@@ -403,7 +403,11 @@ To do.
 
 [MAL](https://mal-lang.org/)
 
+[Mermaid](https://mermaid.js.org/)
+
 [OTM](https://github.com/iriusrisk/OpenThreatModel)
+
+[PlantUML](https://plantuml.com/)
 
 [pytm](https://github.com/izar/pytm)
 
@@ -455,6 +459,8 @@ Mark Loveless, GitLab, 9 July 2021. How we're creating a threat model framework 
 Judy Kelly, Red Hat, 18 July 2022. A collaborative approach to threat modelling. [blog post](https://www.redhat.com/en/blog/collaborative-approach-threat-modeling)
 
 Rui Covelo, OutSystems, 3 October 2022. Developer-driven threat modelling at OutSystems. [blog post](https://github.com/ruicovelo/ruicovelo.github.io/blob/main/_posts/2022-10-03-developer-driven-threat-modelling-outsystems.markdown)
+
+Steve Lipner & Michael Howard, SAFECode and Microsoft, 10 April 2023. Inside the Windows security push: a twenty-year retrospective. [paper](https://www.stevelipner.org/links/resources/Lipner%20Howard%20-%20Windows%20Security%20Push%20Retrospective%20-%20April%202023.pdf)
 
 ## research
 
