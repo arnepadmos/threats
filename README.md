@@ -3,11 +3,15 @@
 *Threat modelling is analysing representations of a system to highlight concerns about security and privacy characteristics.*
 -- [Braiterman et al. (2020)](https://www.threatmodelingmanifesto.org/)
 
+## aspects
+
 [methods](#methods)
 
 [examples](#examples)
 
 [tooling](#tooling)
+
+[standards](#standards)
 
 [journeys](#journeys)
 
@@ -392,6 +396,70 @@
 [XUUL: OWASP lightweight threat modelling process](https://github.com/OWASP/owasp-summit-2017/blob/master/Outcomes/Threat-Model/Lightweight-Threat-Modeling-Process.md)
 
 ## examples
+
+[Argo](https://github.com/argoproj/argoproj/blob/master/docs/argo_threat_model.pdf)
+
+[Argo CD](https://github.com/argoproj/argoproj/blob/master/docs/end_user_threat_model.pdf)
+
+[Backstage](https://backstage.io/docs/overview/threat-model/)
+
+[Briar](https://code.briarproject.org/briar/briar/-/wikis/threat-model)
+
+[Cilium](https://ostif.org/wp-content/uploads/2023/02/OSTIF-ADA-Logics-Cilium-Security-Audit.pdf#page=5)
+
+[Client-side scanning](https://www.apple.com/child-safety/pdf/Security_Threat_Model_Review_of_Apple_Child_Safety_Features.pdf)
+
+[CloudEvents](https://ostif.org/wp-content/uploads/2022/11/CloudEvents.pdf#page=14)
+
+[Contact-tracing apps](https://ostif.org/wp-content/uploads/2021/01/COVID_Green_and_Alert_FINAL.pdf#page=7)
+
+[CoreDNS](https://github.com/trailofbits/publications/blob/master/reviews/CoreDNS.pdf)
+
+[CRI-O](https://ostif.org/wp-content/uploads/2022/06/CRI-O-audit-by-ada-logics-chainguard-ostif.pdf#page=5)
+
+[curl](https://ostif.org/wp-content/uploads/2022/12/cURL-Threat-Model-Report-Fix-Review-2022.pdf)
+
+[DJIGZO](https://www.slideshare.net/NCC_Group/real-world-application-threat-modelling-by-example)
+
+[Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/security/threat_model)
+
+[Falco](https://ostif.org/wp-content/uploads/2023/03/Falco-Security-Audit-Quarkslab-2023.pdf#page=10)
+
+[GitLab](https://gitlab.com/gitlab-com/gl-security/security-research/gitlab-standalone-instance/-/blob/master/threat-modeling-assessment.md)
+
+[Helm](https://github.com/helm/community/blob/main/security-audit/Helm%20Threat%20Model%202020.pdf)
+
+[Istio](https://ostif.org/wp-content/uploads/2023/01/Istio-audit-report-v1.0.pdf#page=12)
+
+[Jackson](https://ostif.org/wp-content/uploads/2022/11/Jackson-Report-Shared.pdf#page=11)
+
+[KEDA](https://ostif.org/wp-content/uploads/2023/02/2023-01-keda-securityreview.pdf#page=12)
+
+[KubeEdge](https://ostif.org/wp-content/uploads/2022/07/OSTIF-2022-Q3-KubeEdge-audit.pdf#page=9)
+
+[Kubernetes](https://github.com/kubernetes/sig-security/blob/main/sig-security-external-audit/security-audit-2019/findings/Kubernetes%20Threat%20Model.pdf)
+
+[Linkerd](https://github.com/linkerd/linkerd2/blob/main/audits/2022/Linkerd%20-%20Threat%20Model.pdf)
+
+[Mailpile](https://github.com/mailpile/Mailpile/wiki/Threat-model)
+
+[SanDisk X600 SED](https://github.com/trailofbits/publications/blob/master/reviews/sandiskx600.pdf)
+
+[Sigstore](https://ostif.org/wp-content/uploads/2022/07/OSTIF-2022-Q1-Sigstore-Report-v3.pdf#page=5)
+
+[SLF4J](https://ostif.org/wp-content/uploads/2022/07/OSTIF-2022-Q2-slf4j-Report-v2.pdf#page=5)
+
+[SSL ecosystem](https://www.ssllabs.com/projects/ssl-threat-model/index.html)
+
+[Trinity](https://files.iota.org/trinity/Threat+Modelling+Report+V1.2.signed.pdf)
+
+[Trusted Firmware-M](https://tf-m-user-guide.trustedfirmware.org/security/threat_models/generic_threat_model.html)
+
+[Vitess](https://ostif.org/wp-content/uploads/2023/06/OSTIF-Adalogics-Vitess-Security-Audit-2023.pdf#page=6)
+
+[Voatz](https://github.com/trailofbits/publications/blob/master/reviews/voatz-threatmodel.pdf)
+
+## standards
 
 To do.
 
