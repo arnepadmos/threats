@@ -459,10 +459,6 @@
 
 [Voatz](https://github.com/trailofbits/publications/blob/master/reviews/voatz-threatmodel.pdf)
 
-## standards
-
-To do.
-
 ## tooling
 
 [draw.io](https://www.drawio.com/)
@@ -492,6 +488,10 @@ To do.
 [TicTaaC](https://github.com/rusakovichma/TicTaaC)
 
 [Verifpal](https://verifpal.com/)
+
+## standards
+
+To do.
 
 ## journeys
 
