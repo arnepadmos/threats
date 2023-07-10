@@ -429,7 +429,7 @@
 
 [Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/security/threat_model)
 
-[External Secrets Operator](https://external-secrets.io/latest/guides/threat-model/)
+[External Secrets Operator](https://github.com/external-secrets/external-secrets/blob/main/docs/guides/threat-model.md)
 
 [Falco](https://ostif.org/wp-content/uploads/2023/03/Falco-Security-Audit-Quarkslab-2023.pdf#page=10)
 
