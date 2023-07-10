@@ -401,6 +401,8 @@
 
 [Argo CD](https://github.com/argoproj/argoproj/blob/master/docs/end_user_threat_model.pdf)
 
+[Asset tracker](https://developer.arm.com/-/media/Files/pdf/PlatformSecurityArchitecture/Analyze/TMSA_Asset_Tracker_Bundle_BET01.zip?revision=a55da6e1-b318-4b57-a4b1-af9856aefd6d)
+
 [Backstage](https://backstage.io/docs/overview/threat-model/)
 
 [Briar](https://code.briarproject.org/briar/briar/-/wikis/threat-model)
@@ -421,7 +423,13 @@
 
 [DJIGZO](https://www.slideshare.net/NCC_Group/real-world-application-threat-modelling-by-example)
 
+[DNSSEC](https://www.rfc-editor.org/rfc/pdfrfc/rfc3833.txt.pdf)
+
+[End-to-End](https://github.com/google/end-to-end/wiki/Threat-model)
+
 [Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/security/threat_model)
+
+[External Secrets Operator](https://external-secrets.io/latest/guides/threat-model/)
 
 [Falco](https://ostif.org/wp-content/uploads/2023/03/Falco-Security-Audit-Quarkslab-2023.pdf#page=10)
 
@@ -443,15 +451,37 @@
 
 [Mailpile](https://github.com/mailpile/Mailpile/wiki/Threat-model)
 
+[MCUboot encrypted images](https://docs.mcuboot.com/encrypted_images.html#threat-model)
+
+[Network camera](https://developer.arm.com/-/media/Files/pdf/PlatformSecurityArchitecture/Analyze/TMSA_Network_Camera_Bundle_BET00.zip?revision=e9afcb64-f3a6-47ed-a39f-f22d9f85ee98)
+
+[OpenTitan](https://opentitan.org/book/doc/security/threat_model/index.html)
+
+[Platform components](https://www.psacertified.org/app/uploads/2020/10/PSA_Certified_Threat_Model_and_Security_Goals_RC3.pdf)
+
+[ROS 2 robotic systems](https://design.ros2.org/articles/ros2_threat_model.html)
+
 [SanDisk X600 SED](https://github.com/trailofbits/publications/blob/master/reviews/sandiskx600.pdf)
+
+[Secure Partition Manager](https://trustedfirmware-a.readthedocs.io/en/latest/threat_model/threat_model_spm.html)
 
 [Sigstore](https://ostif.org/wp-content/uploads/2022/07/OSTIF-2022-Q1-Sigstore-Report-v3.pdf#page=5)
 
 [SLF4J](https://ostif.org/wp-content/uploads/2022/07/OSTIF-2022-Q2-slf4j-Report-v2.pdf#page=5)
 
+[Smart camera](https://www.psacertified.org/app/uploads/2022/08/JSADEN016-Smart_Camera_SESIP_Profile-v0.4_37.pdf#page=21)
+
+[Smart lock](https://armkeil.blob.core.windows.net/developer/Files/pdf/white-paper/smart-door-lock-application-guide.pdf#page=10)
+
+[Smart speaker](https://www.psacertified.org/app/uploads/2022/06/JSADEN015-Smart_Speaker_Voice_Assistant_SESIP_Profile-Release.pdf#page=19)
+
 [SSL ecosystem](https://www.ssllabs.com/projects/ssl-threat-model/index.html)
 
+[Supply chain threats](https://slsa.dev/spec/v1.0/threats-overview)
+
 [Trinity](https://files.iota.org/trinity/Threat+Modelling+Report+V1.2.signed.pdf)
+
+[Trusted Firmware-A](https://trustedfirmware-a.readthedocs.io/en/latest/threat_model/index.html)
 
 [Trusted Firmware-M](https://tf-m-user-guide.trustedfirmware.org/security/threat_models/generic_threat_model.html)
 
@@ -459,7 +489,11 @@
 
 [Voatz](https://github.com/trailofbits/publications/blob/master/reviews/voatz-threatmodel.pdf)
 
+[Water meter](https://developer.arm.com/-/media/Files/pdf/PlatformSecurityArchitecture/Analyze/TMSA_Water_Meter_Bundle_BET00.zip?revision=b3a22663-55dd-4d37-8d33-f2c01cf5c170)
+
 ## tooling
+
+[Deciduous](https://www.deciduous.app/)
 
 [draw.io](https://www.drawio.com/)
 
@@ -477,15 +511,17 @@
 
 [Threagile](https://github.com/Threagile/threagile)
 
-[Threat Dragon](https://github.com/OWASP/threat-dragon)
-
 [threat-composer](https://github.com/awslabs/threat-composer)
+
+[Threat Dragon](https://github.com/OWASP/threat-dragon)
 
 [ThreatPlaybook](https://we45.gitbook.io/threatplaybook)
 
 [threatspec](https://threatspec.org/)
 
 [TicTaaC](https://github.com/rusakovichma/TicTaaC)
+
+[TMS](https://threatsmanager.com/)
 
 [Verifpal](https://verifpal.com/)
 
