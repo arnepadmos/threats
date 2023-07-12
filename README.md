@@ -509,7 +509,11 @@
 
 [pytm](https://github.com/izar/pytm)
 
+[SeaSponge](https://mozilla.github.io/seasponge)
+
 [Threagile](https://github.com/Threagile/threagile)
+
+[threatbank](https://github.com/ngerstle/threatbank)
 
 [threat-composer](https://github.com/awslabs/threat-composer)
 
@@ -518,6 +522,8 @@
 [ThreatPlaybook](https://we45.gitbook.io/threatplaybook)
 
 [threatspec](https://threatspec.org/)
+
+[threatware](https://github.com/samadhicsec/threatware)
 
 [TicTaaC](https://github.com/rusakovichma/TicTaaC)
 
