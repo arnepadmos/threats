@@ -397,6 +397,8 @@
 
 ## examples
 
+[5G infrastructure](https://media.defense.gov/2021/May/10/2002637751/-1/-1/1/POTENTIAL%20THREAT%20VECTORS%20TO%205G%20INFRASTRUCTURE.PDF)
+
 [Argo](https://github.com/argoproj/argoproj/blob/master/docs/argo_threat_model.pdf)
 
 [Argo CD](https://github.com/argoproj/argoproj/blob/master/docs/end_user_threat_model.pdf)
@@ -405,7 +407,11 @@
 
 [Backstage](https://backstage.io/docs/overview/threat-model/)
 
+[BadgeApp](https://github.com/coreinfrastructure/best-practices-badge/blob/main/doc/security.md#threat-model-focusing-on-design)
+
 [Briar](https://code.briarproject.org/briar/briar/-/wikis/threat-model)
+
+[Chromium](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf#page=2)
 
 [Cilium](https://ostif.org/wp-content/uploads/2023/02/OSTIF-ADA-Logics-Cilium-Security-Audit.pdf#page=5)
 
@@ -433,7 +439,19 @@
 
 [Falco](https://ostif.org/wp-content/uploads/2023/03/Falco-Security-Audit-Quarkslab-2023.pdf#page=10)
 
+[Fictional medical devices](https://www.mitre.org/sites/default/files/2021-11/Playbook-for-Threat-Modeling-Medical-Devices.pdf#page=54)
+
 [GitLab](https://gitlab.com/gitlab-com/gl-security/security-research/gitlab-standalone-instance/-/blob/master/threat-modeling-assessment.md)
+
+[gocryptfs](https://nuetzlich.net/gocryptfs/threat_model/)
+
+[Google Cloud Key Vault](https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/69cdaee0567d47ba8074d50a579977a7/69cdaee0567d47ba8074d50a579977a7.pdf#page=5)
+
+[Google Cloud Storage](https://research.nccgroup.com/2023/01/31/threat-modelling-cloud-platform-services-by-example-google-cloud-storage/)
+
+[GlobaLeaks](https://docs.globaleaks.org/en/main/security/ThreatModel.html)
+
+[Hash0](https://defuse.ca/audits/hash0.htm)
 
 [Helm](https://github.com/helm/community/blob/main/security-audit/Helm%20Threat%20Model%202020.pdf)
 
@@ -455,13 +473,29 @@
 
 [Network camera](https://developer.arm.com/-/media/Files/pdf/PlatformSecurityArchitecture/Analyze/TMSA_Network_Camera_Bundle_BET00.zip?revision=e9afcb64-f3a6-47ed-a39f-f22d9f85ee98)
 
+[Node.js](https://github.com/nodejs/node/blob/main/SECURITY.md#the-nodejs-threat-model)
+
+[OAuth 2.0](https://www.rfc-editor.org/rfc/pdfrfc/rfc6819.txt.pdf)
+
 [OpenTitan](https://opentitan.org/book/doc/security/threat_model/index.html)
 
+[Parsec client](https://parallaxsecond.github.io/parsec-book/parsec_security/rust_client_threat_model/threat_model.html)
+
+[Parsec service](https://parallaxsecond.github.io/parsec-book/parsec_security/parsec_threat_model/threat_model.html)
+
 [Platform components](https://www.psacertified.org/app/uploads/2020/10/PSA_Certified_Threat_Model_and_Security_Goals_RC3.pdf)
+
+[Pond](https://web.archive.org/web/20140325232252/https://pond.imperialviolet.org/threat.html)
+
+[reMarkable 2](https://blog.redteam-pentesting.de/2021/remarkable-encryption/)
 
 [ROS 2 robotic systems](https://design.ros2.org/articles/ros2_threat_model.html)
 
 [SanDisk X600 SED](https://github.com/trailofbits/publications/blob/master/reviews/sandiskx600.pdf)
+
+[SCION](https://scion-architecture.net/pdf/SCION-book.pdf#page=324)
+
+[SecureDrop](https://docs.securedrop.org/en/stable/threat_model/threat_model.html)
 
 [Secure Partition Manager](https://trustedfirmware-a.readthedocs.io/en/latest/threat_model/threat_model_spm.html)
 
@@ -471,13 +505,19 @@
 
 [Smart camera](https://www.psacertified.org/app/uploads/2022/08/JSADEN016-Smart_Camera_SESIP_Profile-v0.4_37.pdf#page=21)
 
+[Smart card systems](https://www.schneier.com/wp-content/uploads/2016/02/paper-smart-card-threats.pdf)
+
 [Smart lock](https://armkeil.blob.core.windows.net/developer/Files/pdf/white-paper/smart-door-lock-application-guide.pdf#page=10)
 
 [Smart speaker](https://www.psacertified.org/app/uploads/2022/06/JSADEN015-Smart_Speaker_Voice_Assistant_SESIP_Profile-Release.pdf#page=19)
 
+[SPIRE](https://github.com/cncf/tag-security/blob/main/assessments/projects/spiffe-spire/self-assessment.md)
+
 [SSL ecosystem](https://www.ssllabs.com/projects/ssl-threat-model/index.html)
 
 [Supply chain threats](https://slsa.dev/spec/v1.0/threats-overview)
+
+[Tor](https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/dingledine/dingledine.pdf#page=5)
 
 [Trinity](https://files.iota.org/trinity/Threat+Modelling+Report+V1.2.signed.pdf)
 
@@ -490,6 +530,10 @@
 [Voatz](https://github.com/trailofbits/publications/blob/master/reviews/voatz-threatmodel.pdf)
 
 [Water meter](https://developer.arm.com/-/media/Files/pdf/PlatformSecurityArchitecture/Analyze/TMSA_Water_Meter_Bundle_BET00.zip?revision=b3a22663-55dd-4d37-8d33-f2c01cf5c170)
+
+[Whonix](https://www.whonix.org/wiki/Dev/Threat_Model)
+
+[ZAP](https://www.zaproxy.org/faq/what-is-zaps-assurance-case/#basic-threat-model--trust-boundaries)
 
 ## tooling
 
