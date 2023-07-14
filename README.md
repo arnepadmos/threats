@@ -403,13 +403,23 @@
 
 [Argo CD](https://github.com/argoproj/argoproj/blob/master/docs/end_user_threat_model.pdf)
 
+[Argus](https://research.cs.wisc.edu/mist/papers/Argus_Vulnerability_Assessment.pdf)
+
 [Asset tracker](https://developer.arm.com/-/media/Files/pdf/PlatformSecurityArchitecture/Analyze/TMSA_Asset_Tracker_Bundle_BET01.zip?revision=a55da6e1-b318-4b57-a4b1-af9856aefd6d)
+
+[Authelia](https://www.authelia.com/overview/security/threat-model/)
+
+[B2G apps](https://wiki.mozilla.org/B2G_App_Security_Model/Threat_Model)
 
 [Backstage](https://backstage.io/docs/overview/threat-model/)
 
 [BadgeApp](https://github.com/coreinfrastructure/best-practices-badge/blob/main/doc/security.md#threat-model-focusing-on-design)
 
+[Baltavia substation](https://inldigitallibrary.inl.gov/sites/sti/sti/Sort_24722.pdf)
+
 [Briar](https://code.briarproject.org/briar/briar/-/wikis/threat-model)
+
+[BrowserID](https://wiki.mozilla.org/Security/Reviews/Identity/browserid#Threat_Model)
 
 [Chromium](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf#page=2)
 
@@ -419,9 +429,19 @@
 
 [CloudEvents](https://ostif.org/wp-content/uploads/2022/11/CloudEvents.pdf#page=14)
 
+[Confidant](https://lyft.github.io/confidant/threat_model.html)
+
+[Connected lighting system](https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-31958.pdf)
+
+[Consul](https://developer.hashicorp.com/consul/docs/security/security-models/core#threat-model)
+
+[Consul NIA](https://developer.hashicorp.com/consul/docs/security/security-models/nia#threat-model)
+
 [Contact-tracing apps](https://ostif.org/wp-content/uploads/2021/01/COVID_Green_and_Alert_FINAL.pdf#page=7)
 
 [CoreDNS](https://github.com/trailofbits/publications/blob/master/reviews/CoreDNS.pdf)
+
+[CREAM](https://research.cs.wisc.edu/mist/papers/CREAM_Vulnerability_Assessment.pdf)
 
 [CRI-O](https://ostif.org/wp-content/uploads/2022/06/CRI-O-audit-by-ada-logics-chainguard-ostif.pdf#page=5)
 
@@ -430,6 +450,8 @@
 [DJIGZO](https://www.slideshare.net/NCC_Group/real-world-application-threat-modelling-by-example)
 
 [DNSSEC](https://www.rfc-editor.org/rfc/pdfrfc/rfc3833.txt.pdf)
+
+[Egeria](https://egeria-project.org/guides/planning/security/overview/)
 
 [End-to-End](https://github.com/google/end-to-end/wiki/Threat-model)
 
@@ -441,6 +463,8 @@
 
 [Fictional medical devices](https://www.mitre.org/sites/default/files/2021-11/Playbook-for-Threat-Modeling-Medical-Devices.pdf#page=54)
 
+[Forthic](https://github.com/linkedin/forthic/blob/main/docs/THREAT_MODEL.md)
+
 [GitLab](https://gitlab.com/gitlab-com/gl-security/security-research/gitlab-standalone-instance/-/blob/master/threat-modeling-assessment.md)
 
 [gocryptfs](https://nuetzlich.net/gocryptfs/threat_model/)
@@ -451,6 +475,8 @@
 
 [GlobaLeaks](https://docs.globaleaks.org/en/main/security/ThreatModel.html)
 
+[Grid middleware](https://research.cs.wisc.edu/mist/papers/VA.pdf#page=8)
+
 [Hash0](https://defuse.ca/audits/hash0.htm)
 
 [Helm](https://github.com/helm/community/blob/main/security-audit/Helm%20Threat%20Model%202020.pdf)
@@ -459,11 +485,27 @@
 
 [Jackson](https://ostif.org/wp-content/uploads/2022/11/Jackson-Report-Shared.pdf#page=11)
 
+[Kamus](https://kamus.soluto.io/docs/threatmodeling/threats_controls/)
+
+[Kata Containers](https://github.com/kata-containers/kata-containers/blob/main/docs/threat-model/threat-model.md)
+
+[kCTF](https://github.com/google/kctf/blob/v1/docs/security-threat-model.md)
+
 [KEDA](https://ostif.org/wp-content/uploads/2023/02/2023-01-keda-securityreview.pdf#page=12)
+
+[Keystone](https://wiki.openstack.org/w/images/c/c9/OpenStack_Keystone_Analysis.pdf)
+
+[Knative](https://github.com/knative/community/blob/main/working-groups/security/threat-model.md)
+
+[KubeArmor](https://github.com/accuknox/k8sthreatmodeling/tree/main/models/kubearmor)
 
 [KubeEdge](https://ostif.org/wp-content/uploads/2022/07/OSTIF-2022-Q3-KubeEdge-audit.pdf#page=9)
 
 [Kubernetes](https://github.com/kubernetes/sig-security/blob/main/sig-security-external-audit/security-audit-2019/findings/Kubernetes%20Threat%20Model.pdf)
+
+[Kubernetes admission control](https://github.com/kubernetes/sig-security/blob/main/sig-security-docs/papers/admission-control/kubernetes-admission-control-threat-model.md)
+
+[Ledger Nano](https://donjon.ledger.com/threat-model/)
 
 [Linkerd](https://github.com/linkerd/linkerd2/blob/main/audits/2022/Linkerd%20-%20Threat%20Model.pdf)
 
@@ -471,13 +513,31 @@
 
 [MCUboot encrypted images](https://docs.mcuboot.com/encrypted_images.html#threat-model)
 
+[Microgrid](https://doi.org/10.2172/1090210#page=37)
+
+[Mozilla F1](https://wiki.mozilla.org/Security/Reviews/F1#Threat_Model)
+
+[Mozilla Marketplace](https://wiki.mozilla.org/Security/Reviews/AppStore#Threat_Model)
+
+[MyProxy](https://research.cs.wisc.edu/mist/papers/myproxy_vuln_assess.html)
+
+[MyProxy OAuth](https://research.cs.wisc.edu/mist/papers/myproxy_oauth_vuln_assess.html)
+
 [Network camera](https://developer.arm.com/-/media/Files/pdf/PlatformSecurityArchitecture/Analyze/TMSA_Network_Camera_Bundle_BET00.zip?revision=e9afcb64-f3a6-47ed-a39f-f22d9f85ee98)
 
 [Node.js](https://github.com/nodejs/node/blob/main/SECURITY.md#the-nodejs-threat-model)
 
+[Nomad](https://developer.hashicorp.com/nomad/docs/concepts/security#threat-model)
+
 [OAuth 2.0](https://www.rfc-editor.org/rfc/pdfrfc/rfc6819.txt.pdf)
 
+[OLPC XO](http://dev.laptop.org/git/security/tree/bitfrost.txt#n515)
+
+[OpenSSL](https://www.openssl.org/policies/general/security-policy.html#threat-model)
+
 [OpenTitan](https://opentitan.org/book/doc/security/threat_model/index.html)
+
+[O-RAN](https://orandownloadsweb.azurewebsites.net/download?id=490)
 
 [Parsec client](https://parallaxsecond.github.io/parsec-book/parsec_security/rust_client_threat_model/threat_model.html)
 
@@ -489,7 +549,11 @@
 
 [reMarkable 2](https://blog.redteam-pentesting.de/2021/remarkable-encryption/)
 
+[RISC-V platforms](https://github.com/riscv-non-isa/riscv-security-model/blob/main/specification/riscv-platform-security-model.pdf)
+
 [ROS 2 robotic systems](https://design.ros2.org/articles/ros2_threat_model.html)
+
+[Routing protocols](https://www.rfc-editor.org/rfc/pdfrfc/rfc4593.txt.pdf)
 
 [SanDisk X600 SED](https://github.com/trailofbits/publications/blob/master/reviews/sandiskx600.pdf)
 
@@ -498,6 +562,8 @@
 [SecureDrop](https://docs.securedrop.org/en/stable/threat_model/threat_model.html)
 
 [Secure Partition Manager](https://trustedfirmware-a.readthedocs.io/en/latest/threat_model/threat_model_spm.html)
+
+[Sensor device](https://docs.zephyrproject.org/latest/security/sensor-threat.html)
 
 [Sigstore](https://ostif.org/wp-content/uploads/2022/07/OSTIF-2022-Q1-Sigstore-Report-v3.pdf#page=5)
 
@@ -517,6 +583,8 @@
 
 [Supply chain threats](https://slsa.dev/spec/v1.0/threats-overview)
 
+[Terraform Cloud](https://developer.hashicorp.com/terraform/cloud-docs/architectural-details/security-model#threat-model)
+
 [Tor](https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/dingledine/dingledine.pdf#page=5)
 
 [Trinity](https://files.iota.org/trinity/Threat+Modelling+Report+V1.2.signed.pdf)
@@ -525,11 +593,21 @@
 
 [Trusted Firmware-M](https://tf-m-user-guide.trustedfirmware.org/security/threat_models/generic_threat_model.html)
 
+[Vault](https://developer.hashicorp.com/vault/docs/internals/security#threat-model)
+
 [Vitess](https://ostif.org/wp-content/uploads/2023/06/OSTIF-Adalogics-Vitess-Security-Audit-2023.pdf#page=6)
 
 [Voatz](https://github.com/trailofbits/publications/blob/master/reviews/voatz-threatmodel.pdf)
 
+[VOLTTRON](https://volttron.org/sites/default/files/publications/VOLTTRON%20Threat%20Profile%20v3.0-8.pdf)
+
+[VOMS Core](https://research.cs.wisc.edu/mist/papers/VOMS_Core_Vulnerability_Assessment.pdf)
+
 [Water meter](https://developer.arm.com/-/media/Files/pdf/PlatformSecurityArchitecture/Analyze/TMSA_Water_Meter_Bundle_BET00.zip?revision=b3a22663-55dd-4d37-8d33-f2c01cf5c170)
+
+[WebRTC](https://www.rfc-editor.org/rfc/rfc8826.pdf)
+
+[WebSockets](https://wiki.mozilla.org/Security/Reviews/Firefox6/ReviewNotes/WebSockets#Preliminary_threat_model)
 
 [Whonix](https://www.whonix.org/wiki/Dev/Threat_Model)
 
