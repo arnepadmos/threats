@@ -635,6 +635,8 @@
 
 [SeaSponge](https://mozilla.github.io/seasponge)
 
+[SPARTA](https://sparta.distrinet-research.be/)
+
 [Threagile](https://github.com/Threagile/threagile)
 
 [threatbank](https://github.com/ngerstle/threatbank)
@@ -642,6 +644,8 @@
 [threat-composer](https://github.com/awslabs/threat-composer)
 
 [Threat Dragon](https://github.com/OWASP/threat-dragon)
+
+[Threat Items](https://github.com/hewerlin/threat-items-threat-modeling-template/)
 
 [ThreatPlaybook](https://we45.gitbook.io/threatplaybook)
 
