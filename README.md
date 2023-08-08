@@ -625,6 +625,8 @@
 
 [MAL](https://mal-lang.org/)
 
+[materialise-threats](https://github.com/secmerc/materialize-threats)
+
 [Mermaid](https://mermaid.js.org/)
 
 [OTM](https://github.com/iriusrisk/OpenThreatModel)
