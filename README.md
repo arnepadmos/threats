@@ -702,6 +702,8 @@ Rui Covelo, OutSystems, 3 October 2022. Developer-driven threat modelling at Out
 
 Steve Lipner & Michael Howard, SAFECode and Microsoft, 10 April 2023. Inside the Windows security push: a twenty-year retrospective. [paper](https://www.stevelipner.org/links/resources/Lipner%20Howard%20-%20Windows%20Security%20Push%20Retrospective%20-%20April%202023.pdf)
 
+Arne Padmos & Vanina Yordanova, Adyen, 11 August 2023. Threat modelling at Adyen. [blog post](https://www.adyen.com/knowledge-hub/threat-modelling-at-adyen)
+
 ## research
 
 To do.
