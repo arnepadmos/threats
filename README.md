@@ -529,6 +529,8 @@
 
 [Nomad](https://developer.hashicorp.com/nomad/docs/concepts/security#threat-model)
 
+[ntpd-rs](https://github.com/pendulum-project/ntpd-rs/blob/main/docs/development/threat-model.md)
+
 [OAuth 2.0](https://www.rfc-editor.org/rfc/pdfrfc/rfc6819.txt.pdf)
 
 [OLPC XO](http://dev.laptop.org/git/security/tree/bitfrost.txt#n515)
