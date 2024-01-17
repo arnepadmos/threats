@@ -363,11 +363,15 @@
 
 [THREATSPEC: threat modelling code annotations](https://github.com/threatspec/threatspec)
 
+[TMC: threat modelling capabilities](https://www.threatmodelingmanifesto.org/capabilities/)
+
 [TMD: threat modelling for developers](https://archive.fosdem.org/2020/schedule/event/security_threat_modelling_for_developers/attachments/slides/4150/export/events/attachments/security_threat_modelling_for_developers/slides/4150/Threat_modelling_for_developers.pdf)
 
 [TMD: threat modelling for developers](https://martinfowler.com/articles/agile-threat-modelling.html)
 
 [TME: threat modelling express](https://www.infoq.com/articles/threat-modeling-express/)
+
+[TMM: threat modelling manifesto](https://www.threatmodelingmanifesto.org/)
 
 [TMPPT: threat modelling process for product teams](https://docs.microsoft.com/en-us/archive/blogs/ptorr/high-level-threat-modelling-process)
 
