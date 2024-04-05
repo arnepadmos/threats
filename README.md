@@ -627,7 +627,7 @@
 
 [draw.io](https://www.drawio.com/)
 
-[hcltm](https://github.com/xntrik/hcltm)
+[Gram](https://github.com/klarna-incubator/gram)
 
 [MAL](https://mal-lang.org/)
 
@@ -648,6 +648,8 @@
 [Threagile](https://github.com/Threagile/threagile)
 
 [threatbank](https://github.com/ngerstle/threatbank)
+
+[threatcl](https://github.com/threatcl/threatcl)
 
 [threat-composer](https://github.com/awslabs/threat-composer)
 
