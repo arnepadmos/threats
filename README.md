@@ -698,6 +698,8 @@ Adam Shostack, Microsoft, 17 October 2008. Threat modelling at Microsoft. BlueHa
 
 Danny Dhillon, EMC, 12 May 2011. Developer-driven threat modelling. IEEE Security & Privacy. [paper](https://www.infoq.com/articles/developer-driven-threat-modeling/)
 
+Wouter de Meijer, Worth, 9 October 2018. Security in the design phase. [blog post](https://medium.com/@hello_44104/security-in-the-design-phase-8ddfec597713)
+
 Robert Reichel, GitHub, 2 September 2020. How we threat model. [blog post](https://github.blog/2020-09-02-how-we-threat-model/)
 
 Jeevan Saini, Segment, 29 March 2021. Threat modelling redefined: the self-serve threat model. [blog post](https://segment.com/blog/redefining-threat-modeling/)
