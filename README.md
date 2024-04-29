@@ -493,6 +493,8 @@
 
 [Kata Containers](https://github.com/kata-containers/kata-containers/blob/main/docs/threat-model/threat-model.md)
 
+[Katzenpost](https://katzenpost.network/research/Threat_Model_Doc.pdf)
+
 [kCTF](https://github.com/google/kctf/blob/v1/docs/security-threat-model.md)
 
 [KEDA](https://ostif.org/wp-content/uploads/2023/02/2023-01-keda-securityreview.pdf#page=12)
