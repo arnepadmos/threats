@@ -333,6 +333,8 @@
 
 [SNAM: survivable network analysis method](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2000_005_001_13730.pdf)
 
+[SPDD: secure and private by design and default](https://static.rainfocus.com/rsac/us24/sess/1696098063653001DHln/finalwebsite/2024_USA24_DAS-W09_01_Secure-and-Privacy-by-Design-Converge-with-Threat-Modeling_1713996367361001ZSOs.pdf#page=15)
+
 [SPR: security PHA review](https://ics.kaspersky.com/media/ics-conference-2018/Edward-Marszal-Security-PHA-review-for-analyzing-process-plant-vulnerability-to-cyberattack-En.pdf#page=10)
 
 [SQUARE: security quality requirements engineering](https://apps.dtic.mil/sti/pdfs/ADA443493.pdf)
@@ -717,6 +719,8 @@ Steve Lipner & Michael Howard, SAFECode and Microsoft, 10 April 2023. Inside the
 Arjen, Tweede golf, 31 May 2023. Threat modelling. [blog post](https://tweedegolf.nl/en/blog/93/tg-security-sessions-2022-threat-modelling)
 
 Arne Padmos & Vanina Yordanova, Adyen, 11 August 2023. Threat modelling at Adyen. [blog post](https://www.adyen.com/knowledge-hub/threat-modelling-at-adyen)
+
+Jamie Dicken, New Relic, 7 May 2024. Teaching software engineers to threat model: we did it, and so can you. RSAC. [slides](https://static.rainfocus.com/rsac/us24/sess/1697216482260001ap2s/finalwebsite/2024_USA24_DAS-T01_01_Teaching-Software-Engineers-to-Threat-Model_1715093934631001QoRJ.pdf) and [recording](https://www.youtube.com/watch?v=PgiwZmz2IIQ)
 
 ## research
 
