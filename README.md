@@ -589,6 +589,8 @@
 
 [Smart speaker](https://www.psacertified.org/app/uploads/2022/06/JSADEN015-Smart_Speaker_Voice_Assistant_SESIP_Profile-Release.pdf#page=19)
 
+[SOPS](https://getsops.io/docs/#threat-model)
+
 [SPIRE](https://github.com/cncf/tag-security/blob/main/assessments/projects/spiffe-spire/self-assessment.md)
 
 [SSL ecosystem](https://www.ssllabs.com/projects/ssl-threat-model/index.html)
