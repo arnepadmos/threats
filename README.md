@@ -139,6 +139,8 @@
 
 [D3FEND: knowledge graph of cyber-security countermeasures](https://d3fend.mitre.org/resources/D3FEND.pdf)
 
+[DBT: design basis threat](https://www-pub.iaea.org/MTCD/Publications/PDF/P1926_web.pdf#page=32)
+
 [DFD: data flow diagram](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.8437&rep=rep1&type=pdf#page=146)
 
 [DFD3: version 3 data flow diagram](https://github.com/adamshostack/DFD3)
