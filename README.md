@@ -730,6 +730,8 @@ Jamie Dicken, New Relic, 7 May 2024. Teaching software engineers to threat model
 
 Ameerah-Muhsinah Jamil et al., Iowa State and Security Compass, 12 November 2021. Threat modelling of cyber-physical systems in practice. CRiSIS. [paper](https://web.archive.org/web/20211202175848/http://www.crisis-2021.com/wp-content/uploads/2021/10/Threat-Modeling-of-Cybey-Physical-Systems-in-Practice.pdf)
 
+Carson Powers et al., Tufts, 7 August 2022. Where's Eve? Evaluating student threat modelling performance and perceptions. WSIW. [paper](https://devusec.de/2023-conference-wsiw/2022/downloads/WIP-Wheres%20Eve.pdf)
+
 Stef Verreydt et al., KU Leuven, 13 August 2024. Threat modelling state of practice in Dutch organisations. SOUPS. [paper](https://www.usenix.org/system/files/soups2024-verreydt.pdf), [slides](https://www.usenix.org/system/files/soups2024_slides-verreydt.pdf), and [recording](https://www.youtube.com/watch?v=vxEPIXjgCKc)
 
 ## copyright
