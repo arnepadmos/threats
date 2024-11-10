@@ -728,7 +728,9 @@ Jamie Dicken, New Relic, 7 May 2024. Teaching software engineers to threat model
 
 ## research
 
-To do.
+Ameerah-Muhsinah Jamil et al., Iowa State and Security Compass, 12 November 2021. Threat modelling of cyber-physical systems in practice. CRiSIS. [paper](https://web.archive.org/web/20211202175848/http://www.crisis-2021.com/wp-content/uploads/2021/10/Threat-Modeling-of-Cybey-Physical-Systems-in-Practice.pdf)
+
+Stef Verreydt et al., KU Leuven, 13 August 2024. Threat modelling state of practice in Dutch organisations. SOUPS. [paper](https://www.usenix.org/system/files/soups2024-verreydt.pdf), [slides](https://www.usenix.org/system/files/soups2024_slides-verreydt.pdf), and [recording](https://www.youtube.com/watch?v=vxEPIXjgCKc)
 
 ## copyright
 
