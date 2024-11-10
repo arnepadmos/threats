@@ -734,6 +734,8 @@ Carson Powers et al., Tufts, 7 August 2022. Where's Eve? Evaluating student thre
 
 Stef Verreydt et al., KU Leuven, 13 August 2024. Threat modelling state of practice in Dutch organisations. SOUPS. [paper](https://www.usenix.org/system/files/soups2024-verreydt.pdf), [slides](https://www.usenix.org/system/files/soups2024_slides-verreydt.pdf), and [recording](https://www.youtube.com/watch?v=vxEPIXjgCKc)
 
+Ronald Thompson et al., Tufts, 16 August 2024. 'There are rabbit holes I want to go down that I'm not allowed to go down': an investigation of security expert threat modelling practices for medical devices. USENIX Sec. [paper](https://www.usenix.org/system/files/usenixsecurity24-thompson.pdf), [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-thompson.pdf), and [artefacts](https://doi.org/10.17605/osf.io/p9xky)
+
 ## copyright
 
 This document is licensed under a CC BY 4.0 licence. The desired citation is as follows:
