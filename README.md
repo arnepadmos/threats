@@ -275,6 +275,8 @@
 
 [PA: ISI vulnerability taxonomy](https://web.archive.org/web/20210703024721/https://seclab.cs.ucdavis.edu/projects/history/CD/bisb78.pdf)
 
+[PANOPTIC: pattern and action nomenclature of privacy threats in context](https://ptmworkshop.gitlab.io/static/media/PANOPTIC-MTR-v1-Publicly-Released.8cfab26fce008793a041.pdf)
+
 [PASTA: process for attack simulation and threat analysis](https://files.speakerdeck.com/presentations/9c79c0a1d0b94c569d8011bff5df3c54/AppSecCaliTMTrainingV2.pdf)
 
 [PDPE: pattern-directed protection evaluation](https://apps.dtic.mil/sti/pdfs/ADA012474.pdf)
