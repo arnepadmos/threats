@@ -251,6 +251,8 @@
 
 [MLRF: machine learning risk framework](https://berryvilleiml.com/docs/ara.pdf)
 
+[MTM: meta threat modelling](https://www.youtube.com/watch?v=BOPCLUPTI6A&t=294s)
+
 [NEAT: necessary-explained-actionable-tested security warnings](https://cups.cs.cmu.edu/soups/2011/posters/soups_posters-Reeder.pdf)
 
 [NIST: SP 800-30 risk assessment process](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)
