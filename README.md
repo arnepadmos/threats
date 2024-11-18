@@ -195,6 +195,8 @@
 
 [HTA: hierarchical task analysis](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.568.7814&rep=rep1&type=pdf)
 
+[HTM: human-centred threat modelling](https://github.com/Usable-Security-and-Privacy-Lab/IEEESP25-SoK/blob/main/A%20Framework%20and%20Guide%20for%20Human-Centered%20Threat%20Modeling%20in%20Security%20and%20Privacy%20Research.pdf)
+
 [HTMM: hybrid threat modelling method](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2018_004_001_516627.pdf)
 
 [IAM: infosec assessment methodology](https://web.archive.org/web/20070416084255/http://www.iatrp.com:80/modules.cfm)
@@ -293,13 +295,15 @@
 
 [PTES: penetration testing execution standard](http://www.pentest-standard.org/index.php/Threat_Modeling)
 
+[PTM: participatory threat modelling](https://ora.ox.ac.uk/objects/uuid:a70787e2-73ab-4a2f-b6f3-3270f11ed3a9/files/r2227mp894)
+
 [PYTM: pythonic framework for threat modelling](https://github.com/izar/pytm)
+
+[QIS: quickscan information security](https://www.earonline.nl/images/earpub/8/86/Quickscan_BIR2017_versie_1.pdf)
 
 [RAINDANCE: attack map process](https://github.com/devsecops/raindance)
 
 [RATM: risk assessment and threat modelling](https://developer.apple.com/library/archive/documentation/Security/Conceptual/Security_Overview/ThreatModeling/ThreatModeling.html)
-
-[QIS: quickscan information security](https://www.earonline.nl/images/earpub/8/86/Quickscan_BIR2017_versie_1.pdf)
 
 [RAVIB: risicoanalyse voor informatiebeveiliging](https://www.ravib.nl/documentatie)
 
