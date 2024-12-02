@@ -639,6 +639,8 @@
 
 ## tooling
 
+[Copi](https://github.com/secure-delivery/copi)
+
 [Deciduous](https://www.deciduous.app/)
 
 [draw.io](https://www.drawio.com/)
