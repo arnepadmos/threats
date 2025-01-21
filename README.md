@@ -239,6 +239,8 @@
 
 [MAL: meta attack language](https://www.researchgate.net/profile/Pontus-Johnson/publication/327005933_A_Meta_Language_for_Threat_Modeling_and_Attack_Simulations/links/5bfe8cb445851523d151b167/A-Meta-Language-for-Threat-Modeling-and-Attack-Simulations.pdf)
 
+[MAP: models of applied privacy](https://dl.acm.org/doi/pdf/10.1145/3544548.3581484)
+
 [MC: misuse case](http://www.nik.no/2001/21-sindre.pdf)
 
 [MDTM: medical device threat modelling](https://www.medcrypt.co/whitepaper_resources/WP9_Medical%20Device%20Threat%20Modeling_v4.1.pdf)
