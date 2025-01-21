@@ -289,6 +289,8 @@
 
 [PNG: persona non grata](https://www.researchgate.net/profile/Nancy-Mead/publication/320027543_Crowd_Sourcing_the_Creation_of_Personae_Non_Gratae_for_Requirements-Phase_Threat_Modeling/links/5a45a019458515f6b0548354/Crowd-Sourcing-the-Creation-of-Personae-Non-Gratae-for-Requirements-Phase-Threat-Modeling.pdf)
 
+[PRAM: privacy risk assessment methodology](https://www.nist.gov/system/files/documents/2019/02/28/nist-pram-feb2019.zip)
+
 [PRISMA: product risk management](http://www.erikvanveenendaal.nl/site/wp-content/uploads/PRISMA-white-paper-v1.5.pdf)
 
 [PTA: practical threat analysis](https://web.archive.org/web/20210915213320/http://www.ptatechnologies.com/Documents/PTAPresentation.pdf)
