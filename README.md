@@ -287,6 +287,8 @@
 
 [PFD: process flow diagram](https://threatmodeler.com/wp-content/uploads/2021/03/Process-Flow-Diagram-vs-Data-Flow-Diagram.pdf)
 
+[PLOT4AI: practical library of threats for artificial intelligence](https://plot4.ai/how-does-it-work)
+
 [PM: Purdue model](http://www.pera.net/Pera/PurdueReferenceModel/ReferenceModel.pdf#page=32)
 
 [PNG: persona non grata](https://www.researchgate.net/profile/Nancy-Mead/publication/320027543_Crowd_Sourcing_the_Creation_of_Personae_Non_Gratae_for_Requirements-Phase_Threat_Modeling/links/5a45a019458515f6b0548354/Crowd-Sourcing-the-Creation-of-Personae-Non-Gratae-for-Requirements-Phase-Threat-Modeling.pdf)
