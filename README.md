@@ -413,7 +413,7 @@
 
 [UML: unified modelling language](https://www.omg.org/spec/UML/2.5.1/PDF)
 
-[USERSFIRST: taxonomy of user-oriented threats](https://www.usersfirst.io/user-oriented-privacy-threats)
+[USERSFIRST: taxonomy of user-oriented privacy threats](https://www.usersfirst.io/user-oriented-privacy-threats)
 
 [WBA: why-because analysis](http://www.rvs.uni-bielefeld.de/research/WBA/WBA_Introduction.pdf)
 
