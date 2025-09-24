@@ -279,6 +279,8 @@
 
 [PA: ISI vulnerability taxonomy](https://web.archive.org/web/20210703024721/https://seclab.cs.ucdavis.edu/projects/history/CD/bisb78.pdf)
 
+[PAF: privacy adversarial framework](https://github.com/facebookresearch/privacy_adversarial_framework)
+
 [PANOPTIC: pattern and action nomenclature of privacy threats in context](https://ptmworkshop.gitlab.io/static/media/PANOPTIC-MTR-v1-Publicly-Released.8cfab26fce008793a041.pdf)
 
 [PASTA: process for attack simulation and threat analysis](https://files.speakerdeck.com/presentations/9c79c0a1d0b94c569d8011bff5df3c54/AppSecCaliTMTrainingV2.pdf)
@@ -410,6 +412,8 @@
 [UKC: unified kill chain](https://www.unifiedkillchain.com/assets/The-Unified-Kill-Chain.pdf)
 
 [UML: unified modelling language](https://www.omg.org/spec/UML/2.5.1/PDF)
+
+[USERSFIRST: taxonomy of user-oriented threats](https://www.usersfirst.io/user-oriented-privacy-threats)
 
 [WBA: why-because analysis](http://www.rvs.uni-bielefeld.de/research/WBA/WBA_Introduction.pdf)
 
