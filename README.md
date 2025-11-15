@@ -693,11 +693,11 @@
 
 [TicTaaC](https://github.com/rusakovichma/TicTaaC)
 
+[ThreatPad](https://threat-modeling.net/threatpad/)
+
 [TMS](https://threatsmanager.com/)
 
 [Verifpal](https://verifpal.com/)
-
-[ThreatPad](https://threat-modeling.net/threatpad/)
 
 ## standards
 
