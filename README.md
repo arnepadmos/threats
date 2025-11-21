@@ -760,7 +760,7 @@ Stef Verreydt et al., KU Leuven, 13 August 2024. Threat modelling state of pract
 
 Ronald Thompson et al., Tufts, 16 August 2024. 'There are rabbit holes I want to go down that I'm not allowed to go down': an investigation of security expert threat modelling practices for medical devices. USENIX Sec. [paper](https://www.usenix.org/system/files/usenixsecurity24-thompson.pdf), [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-thompson.pdf), and [artefacts](https://doi.org/10.17605/osf.io/p9xky)
 
-Harjot Kaur et al., CISPA and Tufts, undated. 'Threat modelling is very formal, it's very technical, and also very hard to do correctly': investigating threat modelling practices in open-source software projects. USENIX Sec. [preprint](https://teamusec.de/pdf/conf-usenix-kaur25.pdf)
+Harjot Kaur et al., CISPA and Tufts, 14 August 2025. 'Threat modelling is very formal, it's very technical, and also very hard to do correctly': investigating threat modelling practices in open-source software projects. USENIX Sec. [paper](https://www.usenix.org/system/files/usenixsecurity25-kaur.pdf) and [artefacts](https://osf.io/kn5pb)
 
 ## copyright
 
