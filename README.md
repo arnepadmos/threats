@@ -762,9 +762,9 @@ Stef Verreydt et al., KU Leuven, 13 August 2024. Threat modelling state of pract
 
 Ronald Thompson et al., Tufts, 16 August 2024. 'There are rabbit holes I want to go down that I'm not allowed to go down': an investigation of security expert threat modelling practices for medical devices. USENIX Sec. [paper](https://www.usenix.org/system/files/usenixsecurity24-thompson.pdf), [slides](https://www.usenix.org/system/files/usenixsecurity24_slides-thompson.pdf), and [artefacts](https://doi.org/10.17605/osf.io/p9xky)
 
-Harjot Kaur et al., CISPA and Tufts, 14 August 2025. 'Threat modelling is very formal, it's very technical, and also very hard to do correctly': investigating threat modelling practices in open-source software projects. USENIX Sec. [paper](https://www.usenix.org/system/files/usenixsecurity25-kaur.pdf) and [artefacts](https://osf.io/kn5pb)
+Bernd Gruner et al., DLR, 3 December 2024. Finding a needle in a haystack: threat analysis in open-source projects. SANER. [paper](https://elib.dlr.de/202349/1/paper_arxiv_elib.pdf) and [artefacts](https://gitlab.com/dlr-dw/automated-threat-modeling/data-acquisition)
 
-Bernd Gruner et al., DLR, 3 December 2024, Finding a Needle in a Haystack: Threat Analysis in Open-Source Projects. SANER. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10621728) and [artefacts](https://gitlab.com/dlr-dw/automated-threat-modeling/data-acquisition)
+Harjot Kaur et al., CISPA and Tufts, 14 August 2025. 'Threat modelling is very formal, it's very technical, and also very hard to do correctly': investigating threat modelling practices in open-source software projects. USENIX Sec. [paper](https://www.usenix.org/system/files/usenixsecurity25-kaur.pdf) and [artefacts](https://osf.io/kn5pb)
 
 ## copyright
 
