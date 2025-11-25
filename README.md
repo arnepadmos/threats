@@ -752,6 +752,8 @@ Arjen, Tweede golf, 31 May 2023. Threat modelling. [blog post](https://tweedegol
 
 Arne Padmos & Vanina Yordanova, Adyen, 11 August 2023. Threat modelling at Adyen. [blog post](https://www.adyen.com/knowledge-hub/threat-modelling-at-adyen)
 
+Andrew Hoffman, Ripple, 9 April 2024. Threat modelling at Ripple. [blog post](https://engineering.ripple.com/threat-modeling/)
+
 Jamie Dicken, New Relic, 7 May 2024. Teaching software engineers to threat model: we did it, and so can you. RSAC. [slides](https://static.rainfocus.com/rsac/us24/sess/1697216482260001ap2s/finalwebsite/2024_USA24_DAS-T01_01_Teaching-Software-Engineers-to-Threat-Model_1715093934631001QoRJ.pdf) and [recording](https://www.youtube.com/watch?v=PgiwZmz2IIQ)
 
 Casey Silver, Palantir, 10 December 2024. How Palantir integrates threat modelling into product development. [blog post](https://blog.palantir.com/how-palantir-integrates-threat-modeling-into-product-development-software-supply-chain-series-2-5193fb3be1b1)
