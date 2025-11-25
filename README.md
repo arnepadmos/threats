@@ -756,6 +756,8 @@ Jamie Dicken, New Relic, 7 May 2024. Teaching software engineers to threat model
 
 Casey Silver, Palantir, 10 December 2024. How Palantir integrates threat modelling into product development. [blog post](https://blog.palantir.com/how-palantir-integrates-threat-modeling-into-product-development-software-supply-chain-series-2-5193fb3be1b1)
 
+Meador Inge et al., Google Cloud, 17 March 2025. Threat modelling at Google: from basics to AI-powered magic. [interview](https://cloud.withgoogle.com/cloudsecurity/podcast/ep215-threat-modeling-at-google-from-basics-to-ai-powered-magic/)
+
 ## research
 
 Ameerah-Muhsinah Jamil et al., Iowa State and Security Compass, 12 November 2021. Threat modelling of cyber-physical systems in practice. CRiSIS. [paper](https://web.archive.org/web/20211202175848/http://www.crisis-2021.com/wp-content/uploads/2021/10/Threat-Modeling-of-Cybey-Physical-Systems-in-Practice.pdf)
