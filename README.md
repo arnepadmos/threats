@@ -397,6 +397,8 @@
 
 [TMSA: threat model and security analysis](https://community.arm.com/iot/b/internet-of-things/posts/five-steps-to-successful-threat-modelling)
 
+[TRAIL: threat and risk analysis informed lifecycle](https://blog.trailofbits.com/2025/02/28/threat-modeling-the-trail-of-bits-way/)
+
 [TRIKE: Trike threat modelling methodology](https://www.octotrike.org/papers/Trike_v1_Methodology_Document-draft.pdf)
 
 [TSA: threat susceptibility assessment](https://www.mitre.org/publications/systems-engineering-guide/enterprise-engineering/systems-engineering-for-mission-assurance/cyber-threat-susceptibility-assessment)
