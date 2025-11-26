@@ -235,6 +235,8 @@
 
 [MACRA: maritime cyber-risk assessment](https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/13138/MaCRA%20-%20AM.pdf)
 
+[MAESTRO: multi-agent environment, security, threat, risk, and outcome framework](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro)
+
 [MAGERIT: methodology for risk analysis and management](https://administracionelectronica.gob.es/pae_Home/dam/jcr:80b16a91-75b1-432d-ab23-844a12aab5fc/MAGERIT_v_3_book_1_method_PDF_NIPO_630-14-162-0.pdf)
 
 [MAL: meta attack language](https://www.researchgate.net/profile/Pontus-Johnson/publication/327005933_A_Meta_Language_for_Threat_Modeling_and_Attack_Simulations/links/5bfe8cb445851523d151b167/A-Meta-Language-for-Threat-Modeling-and-Attack-Simulations.pdf)
