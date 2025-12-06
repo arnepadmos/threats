@@ -265,6 +265,8 @@
 
 [NO DIRT: threat modelling for digital healthcare](https://www.omadahealth.com/hubfs/nodirt.pdf)
 
+[OATMEAL: overlays and threat modelling events and limitations](https://www.elastic.co/blog/threat-modeling-oatmeal)
+
 [OCTAVE: operationally critical threat asset and vulnerability evaluation](https://resources.sei.cmu.edu/asset_files/TechnicalReport/1999_005_001_16769.pdf)
 
 [OCTAVE-S: OCTAVE for small organisations](https://resources.sei.cmu.edu/asset_files/Handbook/2005_002_001_14273.pdf)
