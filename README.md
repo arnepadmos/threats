@@ -724,6 +724,8 @@ Adam Shostack, Microsoft, 26 September 2007 to 5 November 2007, The trouble with
 Jeffrey Ingalsbe et al., Ford and SEI, 7 January 2008. Threat modelling: diving into the deep end. IEEE Software. [paper](https://www.researchgate.net/profile/Nancy-Mead/publication/3249444_Threat_Modeling_Diving_into_the_Deep_End/links/0f3175304218e0d88f000000/Threat-Modeling-Diving-into-the-Deep-End.pdf
 )
 
+Costas Kourmpoglou, Financial Times, 11 May 2020. Threat modelling at the FT. [blog post](https://medium.com/ft-product-technology/threat-modelling-at-the-ft-4d628ea3c5a4)
+
 Adam Shostack, Microsoft, 17 or 18 May 2008. SDL threat modelling: past, present, and future. LayerOne. [slides](http://web.archive.org/web/20220831210147/https://www.layerone.org/wp-content/uploads/2011/01/Adam-Shostack-L1-2008-SDL.pdf) and [recording](https://www.youtube.com/watch?v=BXzQdgsk3Hg)
 
 Greg Hughes et al., Microsoft and Ford, 10 or 11 or 12 or 13 June 2008. The importance of threat modelling. TechEd North America. [interview](https://www.youtube.com/watch?v=QuprSy8K_18)
@@ -743,6 +745,8 @@ Robert Reichel, GitHub, 2 September 2020. How we threat model. [blog post](https
 Jeevan Saini, Segment, 29 March 2021. Threat modelling redefined: the self-serve threat model. [blog post](https://segment.com/blog/redefining-threat-modeling/)
 
 Mark Loveless, GitLab, 9 July 2021. How we're creating a threat model framework that works for GitLab. [blog post](https://about.gitlab.com/blog/2021/07/09/creating-a-threat-model-that-works-for-gitlab/)
+
+Gloria Chow, Mercari, 28 April 2022. Threat modelling at Mercari. [blog post](https://engineering.mercari.com/en/blog/entry/20220426-threat-modeling-at-mercari/)
 
 Judy Kelly, Red Hat, 18 July 2022. A collaborative approach to threat modelling. [blog post](https://www.redhat.com/en/blog/collaborative-approach-threat-modeling)
 
