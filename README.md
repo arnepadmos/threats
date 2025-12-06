@@ -724,8 +724,6 @@ Adam Shostack, Microsoft, 26 September 2007 to 5 November 2007, The trouble with
 Jeffrey Ingalsbe et al., Ford and SEI, 7 January 2008. Threat modelling: diving into the deep end. IEEE Software. [paper](https://www.researchgate.net/profile/Nancy-Mead/publication/3249444_Threat_Modeling_Diving_into_the_Deep_End/links/0f3175304218e0d88f000000/Threat-Modeling-Diving-into-the-Deep-End.pdf
 )
 
-Costas Kourmpoglou, Financial Times, 11 May 2020. Threat modelling at the FT. [blog post](https://medium.com/ft-product-technology/threat-modelling-at-the-ft-4d628ea3c5a4)
-
 Adam Shostack, Microsoft, 17 or 18 May 2008. SDL threat modelling: past, present, and future. LayerOne. [slides](http://web.archive.org/web/20220831210147/https://www.layerone.org/wp-content/uploads/2011/01/Adam-Shostack-L1-2008-SDL.pdf) and [recording](https://www.youtube.com/watch?v=BXzQdgsk3Hg)
 
 Greg Hughes et al., Microsoft and Ford, 10 or 11 or 12 or 13 June 2008. The importance of threat modelling. TechEd North America. [interview](https://www.youtube.com/watch?v=QuprSy8K_18)
@@ -739,6 +737,8 @@ Adam Shostack, Microsoft, 17 October 2008. Threat modelling at Microsoft. BlueHa
 Danny Dhillon, EMC, 12 May 2011. Developer-driven threat modelling. IEEE Security & Privacy. [paper](https://www.infoq.com/articles/developer-driven-threat-modeling/)
 
 Wouter de Meijer, Worth, 9 October 2018. Security in the design phase. [blog post](https://medium.com/@hello_44104/security-in-the-design-phase-8ddfec597713)
+
+Costas Kourmpoglou, Financial Times, 11 May 2020. Threat modelling at the FT. [blog post](https://medium.com/ft-product-technology/threat-modelling-at-the-ft-4d628ea3c5a4)
 
 Robert Reichel, GitHub, 2 September 2020. How we threat model. [blog post](https://github.blog/2020-09-02-how-we-threat-model/)
 
