@@ -89,6 +89,8 @@
 
 [CAPEC: common attack pattern enumeration and classification](https://capec.mitre.org/data/index.html)
 
+[CAPM: criticality analysis process model](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8179.pdf)
+
 [CARTA: continuous adaptive risk and trust assessment](https://www.gartner.com/en/documents/3723818)
 
 [CBEST: Bank of England cyber threat modelling](https://web.archive.org/web/20171009175133/http://www.bankofengland.co.uk/financialstability/fsc/Documents/anintroductiontocbest.pdf)
