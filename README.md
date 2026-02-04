@@ -481,6 +481,8 @@
 
 [curl](https://ostif.org/wp-content/uploads/2022/12/cURL-Threat-Model-Report-Fix-Review-2022.pdf)
 
+[Decentralised Credentials](https://www.w3.org/TR/threat-model-decentralized-credentials/)
+
 [DJIGZO](https://www.slideshare.net/NCC_Group/real-world-application-threat-modelling-by-example)
 
 [DNSSEC](https://www.rfc-editor.org/rfc/pdfrfc/rfc3833.txt.pdf)
@@ -490,6 +492,10 @@
 [End-to-End](https://github.com/google/end-to-end/wiki/Threat-model)
 
 [Envoy](https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/security/threat_model)
+
+[EPUB publications](https://www.w3.org/TR/epub-34/#epub-threat-model)
+
+[EPUB reading systems](https://www.w3.org/TR/epub-rs-34/#epub-threat-model)
 
 [External Secrets Operator](https://github.com/external-secrets/external-secrets/blob/main/docs/guides/threat-model.md)
 
@@ -646,6 +652,8 @@
 [VOMS Core](https://research.cs.wisc.edu/mist/papers/VOMS_Core_Vulnerability_Assessment.pdf)
 
 [Water meter](https://developer.arm.com/-/media/Files/pdf/PlatformSecurityArchitecture/Analyze/TMSA_Water_Meter_Bundle_BET00.zip?revision=b3a22663-55dd-4d37-8d33-f2c01cf5c170)
+
+[Web of Things](https://www.w3.org/TR/wot-security/#wot-threat-model)
 
 [WebRTC](https://www.rfc-editor.org/rfc/rfc8826.pdf)
 
