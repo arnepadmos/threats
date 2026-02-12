@@ -311,7 +311,7 @@
 
 [PTM: participatory threat modelling](https://ora.ox.ac.uk/objects/uuid:a70787e2-73ab-4a2f-b6f3-3270f11ed3a9/files/r2227mp894)
 
-[PYTM: pythonic framework for threat modelling](https://github.com/izar/pytm)
+[PYTM: pythonic framework for threat modelling](https://github.com/OWASP/pytm/blob/master/pytm/threatlib/threats.json)
 
 [QIS: quickscan information security](https://www.earonline.nl/images/earpub/8/86/Quickscan_BIR2017_versie_1.pdf)
 
@@ -685,7 +685,7 @@
 
 [PlantUML](https://plantuml.com/)
 
-[pytm](https://github.com/izar/pytm)
+[pytm](https://github.com/OWASP/pytm)
 
 [SeaSponge](https://mozilla.github.io/seasponge)
 
