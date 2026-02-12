@@ -699,6 +699,8 @@
 
 [threat-composer](https://github.com/awslabs/threat-composer)
 
+[threat-designer](https://github.com/awslabs/threat-designer)
+
 [Threat Dragon](https://github.com/OWASP/threat-dragon)
 
 [Threat Items](https://github.com/hewerlin/threat-items-threat-modeling-template/)
