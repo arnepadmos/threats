@@ -321,6 +321,8 @@
 
 [RAVIB: risicoanalyse voor informatiebeveiliging](https://www.ravib.nl/documentatie)
 
+[RBTM: relationship-based threat modelling](https://dl.acm.org/doi/pdf/10.1145/3524489.3527303)
+
 [RDSA: risk-based design security analysis](https://sion.info/assets/pdf/publications/SionSEAD2018.pdf)
 
 [RFC 3552: IETF security considerations guidelines](https://www.rfc-editor.org/rfc/pdfrfc/rfc3552.txt.pdf)
