@@ -467,6 +467,8 @@
 
 [Confidant](https://lyft.github.io/confidant/threat_model.html)
 
+[Confidential computing](https://confidentialcomputing.io/wp-content/uploads/sites/10/2023/03/CCC-A-Technical-Analysis-of-Confidential-Computing-v1.3_unlocked.pdf#page=10)
+
 [Connected lighting system](https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-31958.pdf)
 
 [Consul](https://developer.hashicorp.com/consul/docs/security/security-models/core#threat-model)
