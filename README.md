@@ -679,6 +679,8 @@
 
 [Gram](https://github.com/klarna-incubator/gram)
 
+[GuardLink](https://github.com/Bugb-Technologies/guardlink)
+
 [MAL](https://mal-lang.org/)
 
 [materialise-threats](https://github.com/secmerc/materialize-threats)
