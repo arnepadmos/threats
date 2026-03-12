@@ -321,8 +321,6 @@
 
 [RAVIB: risicoanalyse voor informatiebeveiliging](https://www.ravib.nl/documentatie)
 
-[RBTM: relationship-based threat modelling](https://dl.acm.org/doi/pdf/10.1145/3524489.3527303)
-
 [RDSA: risk-based design security analysis](https://sion.info/assets/pdf/publications/SionSEAD2018.pdf)
 
 [RFC 3552: IETF security considerations guidelines](https://www.rfc-editor.org/rfc/pdfrfc/rfc3552.txt.pdf)
@@ -336,6 +334,8 @@
 [RRM: risk rating methodology](https://web.archive.org/web/20190601052039/https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)
 
 [RTM: rapid threat modelling](https://www.blackhat.com/presentations/bh-usa-05/bh-us-05-aggarwal-update.pdf)
+
+[RTM: relationship-based threat modelling](https://dl.acm.org/doi/pdf/10.1145/3524489.3527303)
 
 [RTMP: rapid threat model prototyping](https://github.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs)
 
@@ -687,6 +687,8 @@
 
 [Mermaid](https://mermaid.js.org/)
 
+[Navigator](https://github.com/canada-ca/navigator)
+
 [OTM](https://github.com/iriusrisk/OpenThreatModel)
 
 [PlantUML](https://plantuml.com/)
@@ -696,6 +698,8 @@
 [SeaSponge](https://mozilla.github.io/seasponge)
 
 [SPARTA](https://sparta.distrinet-research.be/)
+
+[StartLeft](https://github.com/iriusrisk/startleft)
 
 [Threagile](https://github.com/Threagile/threagile)
 
@@ -712,6 +716,8 @@
 [Threat Items](https://github.com/hewerlin/threat-items-threat-modeling-template/)
 
 [ThreatPlaybook](https://we45.gitbook.io/threatplaybook)
+
+[ThreatSea](https://github.com/MaibornWolff/ThreatSea)
 
 [threatspec](https://threatspec.org/)
 
