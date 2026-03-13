@@ -691,6 +691,8 @@
 
 [OTM](https://github.com/iriusrisk/OpenThreatModel)
 
+[PILLAR](https://github.com/stfbk/PILLAR)
+
 [PlantUML](https://plantuml.com/)
 
 [pytm](https://github.com/OWASP/pytm)
