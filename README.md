@@ -511,13 +511,15 @@
 
 [GitLab](https://gitlab.com/gitlab-com/gl-security/security-research/gitlab-standalone-instance/-/blob/master/threat-modeling-assessment.md)
 
+[GlobaLeaks](https://docs.globaleaks.org/en/main/security/ThreatModel.html)
+
 [gocryptfs](https://nuetzlich.net/gocryptfs/threat_model/)
 
 [Google Cloud Key Vault](https://research.nccgroup.com/wp-content/uploads/episerver-images/assets/69cdaee0567d47ba8074d50a579977a7/69cdaee0567d47ba8074d50a579977a7.pdf#page=5)
 
 [Google Cloud Storage](https://research.nccgroup.com/2023/01/31/threat-modelling-cloud-platform-services-by-example-google-cloud-storage/)
 
-[GlobaLeaks](https://docs.globaleaks.org/en/main/security/ThreatModel.html)
+[Grant management service](https://www.security.gov.uk/policy-and-guidance/secure-by-design/activities/performing-threat-modelling/example-threat-model/)
 
 [Grid middleware](https://research.cs.wisc.edu/mist/papers/VA.pdf#page=8)
 
