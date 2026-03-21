@@ -773,6 +773,8 @@ Adam Shostack, Microsoft, 17 October 2008. Threat modelling at Microsoft. BlueHa
 
 Danny Dhillon, EMC, 12 May 2011. Developer-driven threat modelling. IEEE Security & Privacy. [paper](https://www.infoq.com/articles/developer-driven-threat-modeling/)
 
+Oleksiy Kovyrin, Swiftype, 30 November 2017. Threat modelling and infrastructure risk assessment at Swiftype. [blog post](https://web.archive.org/web/20171130181612/https://swiftype.engineering/threat-modelling-and-infrastructure-risk-assessment-at-swiftype-6c1b337c7df1?gi=94c936701fa4)
+
 Wouter de Meijer, Worth, 9 October 2018. Security in the design phase. [blog post](https://medium.com/@hello_44104/security-in-the-design-phase-8ddfec597713)
 
 Costas Kourmpoglou, Financial Times, 11 May 2020. Threat modelling at the FT. [blog post](https://medium.com/ft-product-technology/threat-modelling-at-the-ft-4d628ea3c5a4)
