@@ -1,7 +1,14 @@
 # threat modelling
 
-*Threat modelling is analysing representations of a system to highlight concerns about security and privacy characteristics.*
--- [Braiterman et al. (2020)](https://www.threatmodelingmanifesto.org/)
+*analysing representations of a system to highlight concerns about security and privacy characteristics* ([Braiterman et al., 2020](https://www.threatmodelingmanifesto.org/))
+
+Threat modelling is a security design analysis technique that identifies potential security issues ([EN IEC 62443-4-1:2018](https://www.evs.ee/en/evs-en-iec-62443-4-1-2018)). It helps engineers, security specialists, and testers to systematically consider potential threats and countermeasures throughout the entire product lifecycle by analysing a product's architecture.
+
+The threat model – that is, the output of one of more threat-modelling activities – should be reviewed on a risk-based interval. For example, timing may be based on the extent of architectural changes, the expected pace of technological development, and the progress in attack methods. At a minimum, the threat model should be reviewed every two years, which includes verifying whether relevant assumptions are still realistic.
+
+Generic threat modelling approaches include free-form brainstorming (e.g. [Linde, 1975](https://dl.acm.org/doi/pdf/10.1145/1499949.1500018#page=2)), traversing attack trees (e.g. [Schneier, 1999](https://www.schneier.com/wp-content/uploads/2015/12/attacktrees.pdf)), and data flows and mnemonics (e.g. [Kohnfelder, 2021](https://learning.oreilly.com/library/view/designing-secure-software/9781098129804/c02.xhtml#h1-123456c01-0003)). Such generic approaches can be recombined. Additionally, there are many variants and extensions available, along with more concrete techniques and process descriptions. For example, bow ties ([Cowley et al., 2018](https://irfoffshoresafety.com/wp-content/uploads/2018/10/PS2-Bow-Ties-in-Risk-Management-Charles-Cowley-Energy-Institute.pdf)), attack graphs ([Phillips & Swiler, 1998](https://dl.acm.org/doi/pdf/10.1145/310889.310919#page=2)), and kill chains ([Hutchins et al., 2010](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)) are variations on attack trees. As to mnemonics, STRIDE ([Kohnfelder & Garg, 1999](https://web.archive.org/web/20140424003912/http://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-components-postattachments/00-09-88-74-86/The-threats-to-our-products.docx)) continues to be a popular with engineering teams as an elicitation technique, often combined with data-flow diagrams ([Yourdon, 2006](https://web.archive.org/web/20210914215537if_/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.8437&rep=rep1&type=pdf#page=146)).
+
+Both STRIDE and DFDs are commonly part of a broader process, many of which have become increasingly streamlined and democratised over time: e.g. contrast [Swiderski & Snyder (2004)](https://archive.org/details/threatmodeling0000swid) with [Microsoft (2024)](https://web.archive.org/web/20240613160628/https://www.microsoft.com/en-us/securityengineering/sdl/practices/secure-by-design). On the other hand, attack trees tend to be used by security analysts to enumerate threats, whether as part of a detailed analysis of a single product like in TARA ([ISO/SAE 21434:2021](https://www.iso.org/standard/70918.html)) or as a way to capture attack knowledge in a structured manner like in EMB3D ([MITRE, 2024](https://emb3d.mitre.org/assets/EMB3D_Paper_09-23-24.pdf)).
 
 ## aspects
 
@@ -39,7 +46,7 @@
 
 [AEGIS: appropriate and effective guidance for information security](https://discovery.ucl.ac.uk/id/eprint/20264/1/20264.pdf)
 
-[AG: attack graph](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.4664&rep=rep1&type=pdf)
+[AG: attack graph](https://dl.acm.org/doi/pdf/10.1145/310889.310919#page=2)
 
 [AN: attack net](https://www.nspw.org/2009/proceedings/2000/nspw2000-mcdermott.pdf)
 
@@ -143,9 +150,9 @@
 
 [DBT: design basis threat](https://www-pub.iaea.org/MTCD/Publications/PDF/P1926_web.pdf#page=32)
 
-[DFD: data flow diagram](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.8437&rep=rep1&type=pdf#page=146)
+[DFD: data-flow diagram](https://web.archive.org/web/20210914215537if_/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.8437&rep=rep1&type=pdf#page=146)
 
-[DFD3: version 3 data flow diagram](https://github.com/adamshostack/DFD3)
+[DFD3: version 3 data-flow diagram](https://github.com/adamshostack/DFD3)
 
 [DOLEV-YAO: Dolev-Yao adversary model](https://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf)
 
@@ -293,7 +300,7 @@
 
 [PDPE: pattern-directed protection evaluation](https://apps.dtic.mil/sti/pdfs/ADA012474.pdf)
 
-[PFD: process flow diagram](https://threatmodeler.com/wp-content/uploads/2021/03/Process-Flow-Diagram-vs-Data-Flow-Diagram.pdf)
+[PFD: process-flow diagram](https://web.archive.org/web/20210901113550if_/https://threatmodeler.com/wp-content/uploads/2021/03/Process-Flow-Diagram-vs-Data-Flow-Diagram.pdf)
 
 [PLOT4AI: practical library of threats for artificial intelligence](https://plot4.ai/how-does-it-work)
 
