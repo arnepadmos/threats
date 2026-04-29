@@ -538,6 +538,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [Jackson](https://ostif.org/wp-content/uploads/2022/11/Jackson-Report-Shared.pdf#page=11)
 
+[JShelter](https://jshelter.org/threatmodel/)
+
 [Kamus](https://kamus.soluto.io/docs/threatmodeling/threats_controls/)
 
 [Kata Containers](https://github.com/kata-containers/kata-containers/blob/main/docs/threat-model/threat-model.md)
