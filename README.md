@@ -534,6 +534,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [Helm](https://github.com/helm/community/blob/main/security-audit/Helm%20Threat%20Model%202020.pdf)
 
+[High-performance computing](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-223.pdf#page=18)
+
 [Istio](https://ostif.org/wp-content/uploads/2023/01/Istio-audit-report-v1.0.pdf#page=12)
 
 [Jackson](https://ostif.org/wp-content/uploads/2022/11/Jackson-Report-Shared.pdf#page=11)
