@@ -384,6 +384,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [STRIDE: six security threat categories](https://web.archive.org/web/20140424003912/http://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-components-postattachments/00-09-88-74-86/The-threats-to-our-products.docx)
 
+[SUPL: security UX pattern library](https://github.com/alavesa/security-UX-pattern-library)
+
 [SVA: security vulnerability analysis](https://csrc.nist.gov/CSRC/media/Publications/conference-paper/1991/10/01/proceedings-14th-national-computer-security-conference-1991/documents/1991-14th-NCSC-proceedings-vol-2.pdf#page=224)
 
 [TAF: threat analysis framework](https://www.energy.gov/sites/default/files/oeprod/DocumentsandMedia/Threat_Analysis_Framework.pdf)
