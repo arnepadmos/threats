@@ -714,6 +714,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [PlantUML](https://plantuml.com/)
 
+[Precogly](https://github.com/precogly/precogly)
+
 [pytm](https://github.com/OWASP/pytm)
 
 [SeaSponge](https://mozilla.github.io/seasponge)
