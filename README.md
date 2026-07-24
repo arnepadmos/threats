@@ -610,6 +610,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [Platform components](https://www.psacertified.org/app/uploads/2020/10/PSA_Certified_Threat_Model_and_Security_Goals_RC3.pdf)
 
+[Policy languages for IAM](https://github.com/trailofbits/publications/blob/master/reports/Policy_Language_Security_Comparison_and_TM.pdf)
+
 [Pond](https://web.archive.org/web/20140325232252/https://pond.imperialviolet.org/threat.html)
 
 [reMarkable 2](https://blog.redteam-pentesting.de/2021/remarkable-encryption/)
