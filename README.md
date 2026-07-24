@@ -400,6 +400,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [THREATSPEC: threat modelling code annotations](https://github.com/threatspec/threatspec)
 
+[TMAM: threat modelling acceptance model](https://studenttheses.uu.nl/server/api/core/bitstreams/b985f514-6eca-4afa-bbab-8ab918019441/content#page=68)
+
 [TMC: threat modelling capabilities](https://www.threatmodelingmanifesto.org/capabilities/)
 
 [TMD: threat modelling for developers](https://archive.fosdem.org/2020/schedule/event/security_threat_modelling_for_developers/attachments/slides/4150/export/events/attachments/security_threat_modelling_for_developers/slides/4150/Threat_modelling_for_developers.pdf)
