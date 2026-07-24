@@ -232,6 +232,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [ITM: integrated threat modelling](https://www.duo.uio.no/bitstream/handle/10852/55699/dae-thesis.pdf)
 
+[ITM: invariant-centric threat modelling](https://github.com/defuse/ictm)
+
 [KAC: key assumptions check](https://www.cia.gov/static/955180a45afe3f5013772c313b16face/Tradecraft-Primer-apr09.pdf#page=11)
 
 [LAVA: Los Alamos vulnerability and risk assessment methodology](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-86-4113)
