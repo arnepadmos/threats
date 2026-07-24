@@ -218,6 +218,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [IEC 62443-4-1: IEC SR-2 threat model requirements](https://webstore.iec.ch/publication/33615)
 
+[IID: information inference diagram](https://link.springer.com/content/pdf/10.1007/978-3-032-07574-1_9.pdf)
+
 [IR: intersystem review](https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c18.xhtml#c018_level1_1)
 
 [IRAM2: ISF information risk assessment methodology](https://web.archive.org/web/20210915084621/https://storage.pardot.com/654553/1602068265iBQNQlIC/ISF_Information_Risk_Assessment_Methodology_2_Executive_Summary.pdf)
