@@ -738,6 +738,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [Threat Dragon](https://github.com/OWASP/threat-dragon)
 
+[Threat Forge](https://github.com/exit-zero-labs/threat-forge)
+
 [Threat Items](https://github.com/hewerlin/threat-items-threat-modeling-template/)
 
 [threatmap](https://github.com/bogdanticu88/threatmap)
