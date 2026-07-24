@@ -821,7 +821,7 @@ Casey Silver, Palantir, 10 December 2024. How Palantir integrates threat modelli
 
 Meador Inge et al., Google Cloud, 17 March 2025. Threat modelling at Google: from basics to AI-powered magic. [interview](https://cloud.withgoogle.com/cloudsecurity/podcast/ep215-threat-modeling-at-google-from-basics-to-ai-powered-magic/)
 
-Anish Menon, Netflix, 24 March 2026. Accelerating threat modeling with GenAI: Netflix's journey. RSAC. [slides](https://web.archive.org/web/20260724204908if_/https://static.rainfocus.com/rsac/us26/sess/1755277138468001zVyV/finalwebsite/2026_USA26_ANI-T02_01_Accelerating-Threat-Modeling-with-GenAI-Netflixs-Journey_1773647089214001ip3p.pdf)
+Anish Menon, Netflix, 24 March 2026. Accelerating threat modelling with GenAI: Netflix's journey. RSAC. [slides](https://web.archive.org/web/20260724204908if_/https://static.rainfocus.com/rsac/us26/sess/1755277138468001zVyV/finalwebsite/2026_USA26_ANI-T02_01_Accelerating-Threat-Modeling-with-GenAI-Netflixs-Journey_1773647089214001ip3p.pdf)
 
 ## research
 
