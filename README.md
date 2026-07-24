@@ -744,6 +744,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [threatspec](https://threatspec.org/)
 
+[Threat Tiger](https://github.com/jozeta/threat-tiger)
+
 [threatware](https://github.com/samadhicsec/threatware)
 
 [TicTaaC](https://github.com/rusakovichma/TicTaaC)
