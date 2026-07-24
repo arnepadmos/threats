@@ -738,6 +738,10 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [Threat Items](https://github.com/hewerlin/threat-items-threat-modeling-template/)
 
+[threatmap](https://github.com/bogdanticu88/threatmap)
+
+[ThreatPad](https://threat-modeling.net/threatpad/)
+
 [ThreatPlaybook](https://we45.gitbook.io/threatplaybook)
 
 [ThreatSea](https://github.com/MaibornWolff/ThreatSea)
@@ -749,8 +753,6 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 [threatware](https://github.com/samadhicsec/threatware)
 
 [TicTaaC](https://github.com/rusakovichma/TicTaaC)
-
-[ThreatPad](https://threat-modeling.net/threatpad/)
 
 [TMNT](https://tsp.cs.tufts.edu/tmnt/index.html)
 
