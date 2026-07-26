@@ -770,6 +770,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [TMDD](https://github.com/attasec/tmdd)
 
+[TMGoat](https://github.com/virantisofficial/TMGoat)
+
 [TMNT](https://tsp.cs.tufts.edu/tmnt/index.html)
 
 [TMS](https://threatsmanager.com/)
