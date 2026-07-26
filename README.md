@@ -698,6 +698,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [Deciduous](https://www.deciduous.app/)
 
+[Dethernety](https://github.com/dether-net/dethernety-oss)
+
 [draw.io](https://www.drawio.com/)
 
 [FlowStrider](https://gitlab.com/dlr-dw/automated-threat-modeling/flowstrider)
