@@ -724,6 +724,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [SeaSponge](https://mozilla.github.io/seasponge)
 
+[SecOpsTM](https://github.com/ellipse2v/SecOpsTM/)
+
 [SPARTA](https://sparta.distrinet-research.be/)
 
 [StartLeft](https://github.com/iriusrisk/startleft)
