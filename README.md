@@ -732,6 +732,10 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [StartLeft](https://github.com/iriusrisk/startleft)
 
+[STRIDE GPT](https://github.com/mrwadams/stride-gpt)
+
+[TaaC-AI](https://github.com/yevh/TaaC-AI)
+
 [Threagile](https://github.com/Threagile/threagile)
 
 [threatbank](https://github.com/ngerstle/threatbank)
