@@ -506,6 +506,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [DNSSEC](https://www.rfc-editor.org/rfc/pdfrfc/rfc3833.txt.pdf)
 
+[dr_libs](https://github.com/anthropics/defending-code-reference-harness/blob/main/targets/drlibs/THREAT_MODEL.md)
+
 [Egeria](https://egeria-project.org/guides/planning/security/overview/)
 
 [End-to-End](https://github.com/google/end-to-end/wiki/Threat-model)
