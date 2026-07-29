@@ -28,21 +28,21 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [4Q: four questions framework](https://github.com/adamshostack/4QuestionFrame)
 
-[4+1: five concurrent views model](https://arxiv.org/ftp/arxiv/papers/2006/2006.04975.pdf)
+[4+1: five concurrent views model](https://arxiv.org/pdf/2006.04975)
 
-[5W: five whys](https://www.toyota-myanmar.com/about-toyota/toyota-traditions/quality/ask-why-five-times-about-every-matter)
+[5W: five whys](https://web.archive.org/web/20191019160326if_/https://www.toyota-myanmar.com/about-toyota/toyota-traditions/quality/ask-why-five-times-about-every-matter)
 
-[AADL: architecture analysis and design language](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2006_004_001_14678.pdf)
+[AADL: architecture analysis and design language](https://www.sei.cmu.edu/documents/2103/2006_004_001_14678.pdf)
 
 [AC: abuse case](https://www.acsac.org/1999/papers/wed-b-1030-john.pdf)
 
-[ACH: analysis of competing hypotheses](https://web.archive.org/web/20201101134101/https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/art11.html)
+[ACH: analysis of competing hypotheses](https://web.archive.org/web/20201101134101if_/https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis/art11.html)
 
 [ACTM: architectural component-based threat modelling](https://www.youtube.com/watch?v=5jyL-CHib54)
 
 [ADT: attack-defence tree](https://satoss.uni.lu/members/barbara/papers/adt.pdf)
 
-[ADVISE: adversary view security evaluation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.174.4549&rep=rep1&type=pdf)
+[ADVISE: adversary view security evaluation](https://web.archive.org/web/20210915113653if_/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.174.4549&rep=rep1&type=pdf)
 
 [AEGIS: appropriate and effective guidance for information security](https://discovery.ucl.ac.uk/id/eprint/20264/1/20264.pdf)
 
@@ -54,17 +54,17 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [ARA: architectural risk analysis](https://www.informit.com/articles/article.aspx?p=446451)
 
-[AS: abuser story](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.4183&rep=rep1&type=pdf)
+[AS: abuser story](https://web.archive.org/web/20210913143921if_/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.4183&rep=rep1&type=pdf)
 
-[ASM: attack surface mapping](https://owasp.org/www-pdf-archive/IoTTestingMethodology.pdf)
+[ASM: attack surface mapping](https://web.archive.org/web/20201010200357if_/https://owasp.org/www-pdf-archive/IoTTestingMethodology.pdf)
 
-[ASM: attack surface metric](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/2008/CMU-CS-08-152.pdf#page=22)
+[ASM: attack surface metric](https://www.csd.cs.cmu.edu/sites/default/files/phd-thesis/CMU-CS-08-152.pdf#page=22)
 
 [AT: attack tree](https://www.schneier.com/wp-content/uploads/2015/12/attacktrees.pdf)
 
-[ATAM: architecture trade-off analysis method](https://resources.sei.cmu.edu/asset_files/TechnicalReport/1998_005_001_16646.pdf)
+[ATAM: architecture trade-off analysis method](https://www.sei.cmu.edu/documents/1186/1998_005_001_16646.pdf)
 
-[ATASM: threat model process armature](https://published-prd.lanyonevents.com/published/rsaus17/sessionsFiles/4957/LAB3-W04_LAB3-W04_Threat-Modeling-Demystified.pdf#page=50)
+[ATASM: threat model process armature](https://web.archive.org/web/20210901105549if_/https://published-prd.lanyonevents.com/published/rsaus17/sessionsFiles/4957/LAB3-W04_LAB3-W04_Threat-Modeling-Demystified.pdf#page=50#page=50)
 
 [ATM: adaptive threat modelling](https://www.youtube.com/watch?v=YTtO_TGV2fU)
 
@@ -74,9 +74,9 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [ATM: approachable threat modelling](https://increment.com/security/approachable-threat-modeling/)
 
-[ATT&CK: adversarial tactics techniques and common knowledge](https://www.mitre.org/publications/technical-papers/finding-cyber-threats-with-attck-based-analytics)
+[ATT&CK: adversarial tactics techniques and common knowledge](https://www.mitre.org/sites/default/files/2023-08/16-3713-finding-cyber-threats-with-attack-based-analytics.pdf)
 
-[AVOIDIT: Memphis cyber attack taxonomy](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.372.4700&rep=rep1&type=pdf)
+[AVOIDIT: Memphis cyber attack taxonomy](https://web.archive.org/web/20210914084921if_/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.372.4700&rep=rep1&type=pdf)
 
 [AWS: Amazon Web Services threat modelling tips](https://aws.amazon.com/blogs/security/how-to-approach-threat-modeling/)
 
