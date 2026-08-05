@@ -82,6 +82,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [A&K: dependency and vulnerability analysis](https://puc.overheid.nl/PUC/Handlers/DownloadDocument.ashx?identifier=PUC_79914_31&versienummer=1)
 
+[BATMTPA: Building autonomous threat modeling through play at Admincontrol](https://cybersecgames.com/blogs/case-studies/case-study-scaling-threat-modelling-through-gamification-at-admincontrol)
+
 [BMC: business model canvas](https://canvanizer.com/downloads/business_model_canvas_poster.pdf)
 
 [BRA: binary risk analysis](https://binary.protect.io/workcard.pdf)
