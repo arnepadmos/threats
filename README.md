@@ -492,6 +492,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [Contact-tracing apps](https://ostif.org/wp-content/uploads/2021/01/COVID_Green_and_Alert_FINAL.pdf#page=7)
 
+[Copi](https://github.com/OWASP/cornucopia/blob/master/ThreatDragonModels/copi.json)
+
 [CoreDNS](https://github.com/trailofbits/publications/blob/master/reviews/CoreDNS.pdf)
 
 [CREAM](https://research.cs.wisc.edu/mist/papers/CREAM_Vulnerability_Assessment.pdf)
