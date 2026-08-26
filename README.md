@@ -134,7 +134,7 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [CTM: continuous threat modelling](https://github.com/Autodesk/continuous-threat-modeling/blob/master/Continuous_Threat_Modeling_Handbook.md)
 
-[CTM: cyber threat modelling](https://www.csa.gov.sg/-/media/csa/documents/legislation_supplementary_references/guide-to-cyber-threat-modelling---feb-2021.pdf)
+[CTM: cyber threat modelling](https://isomer-user-content.by.gov.sg/36/cc960d15-3bc3-4431-a2ce-5a5feeabbbc7/Guide-to-Cyber-Threat-Modelling.pdf)
 
 [CVSS: common vulnerability scoring system](https://www.first.org/cvss/specification-document)
 
