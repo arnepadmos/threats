@@ -580,6 +580,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [Linkerd](https://github.com/linkerd/linkerd2/blob/main/audits/2022/Linkerd%20-%20Threat%20Model.pdf)
 
+[Linux kernel](https://github.com/torvalds/linux/blob/master/Documentation/process/threat-model.rst)
+
 [Mailpile](https://github.com/mailpile/Mailpile/wiki/Threat-model)
 
 [MCUboot encrypted images](https://docs.mcuboot.com/encrypted_images.html#threat-model)
