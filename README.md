@@ -644,6 +644,8 @@ Both STRIDE and DFDs are commonly part of a broader process, many of which have 
 
 [Sensor device](https://docs.zephyrproject.org/latest/security/sensor-threat.html)
 
+[SEV-SNP](https://docs.amd.com/api/khub/documents/atTablNxGjuR5pX3kM7WdQ/content#page=5)
+
 [Sigstore](https://ostif.org/wp-content/uploads/2022/07/OSTIF-2022-Q1-Sigstore-Report-v3.pdf#page=5)
 
 [SLF4J](https://ostif.org/wp-content/uploads/2022/07/OSTIF-2022-Q2-slf4j-Report-v2.pdf#page=5)
